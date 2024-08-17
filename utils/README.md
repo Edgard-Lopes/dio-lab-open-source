@@ -62,3 +62,5 @@
 - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+## Tecnologias
+- ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
